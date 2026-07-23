@@ -22,3 +22,5 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 
 * **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)** — *Especialidad en Ciberseguridad*.
 * **Cursos y Prácticas:** TryHackMe, Labs prácticos.
+* **Certificación: IT Specialist: Cybersecurity – Certiport | Pearson VUE (2024)**
+* **Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR)**
