@@ -1,4 +1,4 @@
-# Portfolio de Ciberseguridad | prueba1
+# Portfolio de Ciberseguridad
 
 ¡Hola! 👋 Bienvenido a mi portfolio de ciberseguridad. 
 
