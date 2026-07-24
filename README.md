@@ -9,7 +9,7 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-manuel-coello)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J0Rch3r)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coello93)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coello93/Porfolio)
 
 ## 🛠️ Herramientas y Tecnologías
 
@@ -20,7 +20,7 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 * **Ingeniería Social:**  GoPhish, Diseño de Campañas y Concienciación.
 * **Entornos y Análisis:** Virtualización (VirtualBox/VMware), Docker, Garak IA.
 * **Lenguajes / Scripting:** Bash, Python.
-* 
+  
 ## 💼 Experiencia Técnica y Casos de Uso
 
 ### 🤖 Red Teaming & Seguridad en IA (LLMs)
