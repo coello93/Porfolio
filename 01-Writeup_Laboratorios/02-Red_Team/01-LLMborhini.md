@@ -1,4 +1,4 @@
-**Completada Dificultad: Easy**
+**Completada. Dificultad: Easy**
 <br>
 Para resolver esta maquina, lo podemos hacer tanto en español como ingles, porque la IA que utiliza el sistema lo traduce. <br>
 
