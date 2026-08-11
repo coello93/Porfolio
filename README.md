@@ -14,7 +14,7 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 ## 🛠️ Herramientas y Tecnologías
 
 * **Sistemas Operativos:** Linux (Kali, Ubuntu), Windows / Windows Server, WSL2.
-* **Escaneo y Análisis:** Nmap, Wireshark, Burp Suite, Nessus, OpenVAS.
+* **Escaneo y Análisis:** Nmap, Wireshark, Burp Suite, Nessus, OpenVAS, Gobuster.
 * **SIEM:** Wazuh
 * **Seguridad en IA / LLM:** Red Teaming en Agentes, OWASP Top 10 for LLMs, prompt Injection.
 * **Ingeniería Social:**  GoPhish, Diseño de Campañas y Concienciación.
@@ -36,11 +36,15 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 ## 🎓 Certificaciones y Formación
 
 * **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) | Stucom | Junio 2026** — *Especialidad en Ciberseguridad*.
-* **Certificación: IT Specialist: Cybersecurity – Certiport | Pearson VUE (2024)**
+* **Certificación: IT Specialist: Cybersecurity – Certiport | Pearson VUE | 2024**
 * **Pre Security Certificate | Tryhackme | 2026**
+* **Ciberseguridad avanzada en entornos de las tecnologias de la operación | MainJobs | 2024**
+* **Managing Cisco Network Security | Gdoce |2024**
+* **Introducción a Linux | Hack4u | 2024**
+* **Personalización de entornos en Linux | Hack4u | 2023**
 * **Curso técnico de ciberseguridad | Incibe | 2023**
+* **Curso superior de Ciberseguridad | Deusto formación |2023**
 * **Como protegerse en la red | Mastermaind | 2022**
 * **Hacking ético y ciberseguridad | Udemy | 2022**
-* 
 * **Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR) | Teide IV | 2014**
 * **Cursos y Prácticas:** TryHackMe, Labs prácticos.
