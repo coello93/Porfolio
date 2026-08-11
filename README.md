@@ -1,50 +1,194 @@
-# Portfolio de Ciberseguridad
+# 👋 Hola, soy Jose Manuel
 
-¡Hola! 👋 Bienvenido a mi portfolio de ciberseguridad. 
+### Técnico de Sistemas | Soporte IT N1/N2 | Ciberseguridad
 
-Soy un apasionado de la seguridad informática y la administración de sistemas.
-En este repositorio documento mis laboratorios prácticos, resolución de retos (CTFs) y proyectos de investigación en ciberseguridad ofensiva y defensiva.
+Técnico IT con experiencia en **soporte técnico, diagnóstico y resolución de incidencias hardware/software**, configuración y preparación de equipos y atención al usuario.
 
-## 🌐 Enlaces y Perfiles
+Graduado en **Administración de Sistemas Informáticos en Red (ASIR), especialidad en Ciberseguridad**, con formación práctica en **Linux, Windows, redes, virtualización y seguridad informática**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-manuel-coello)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J0Rch3r)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coello93/Porfolio)
+Mi objetivo profesional es continuar desarrollándome en **soporte IT, CAU y administración de sistemas**, utilizando mis conocimientos de ciberseguridad como valor añadido.
 
-## 🛠️ Herramientas y Tecnologías
+---
 
-* **Sistemas Operativos:** Linux (Kali, Ubuntu), Windows / Windows Server, WSL2.
-* **Escaneo y Análisis:** Nmap, Wireshark, Burp Suite, Nessus, OpenVAS, Gobuster.
-* **SIEM:** Wazuh
-* **Seguridad en IA / LLM:** Red Teaming en Agentes, OWASP Top 10 for LLMs, prompt Injection.
-* **Ingeniería Social:**  GoPhish, Diseño de Campañas y Concienciación.
-* **Entornos y Análisis:** Virtualización (VirtualBox/VMware), Docker, Garak IA.
-* **Lenguajes / Scripting:** Bash, Python.
-  
-## 💼 Experiencia Técnica y Casos de Uso
+## 🖥️ Sistemas y Soporte IT
 
-### 🤖 Red Teaming & Seguridad en IA (LLMs)
-* **Evaluación de Robustez en Agentes IA:** Realización de pruebas ofensivas directas e indirectas (*Prompt Injection*, *Jailbreaking*) alineadas con la guía **OWASP Top 10 for LLMs** para identificar fugas de información y comportamientos no deseados en agentes conversacionales.
+* Linux y Windows
+* Windows Server
+* Active Directory
+* Bash
+* Virtualización con VMware y VirtualBox
+* Instalación y configuración de sistemas
+* Formateo y maquetación de equipos
+* Diagnóstico y resolución de incidencias
+* Copias de seguridad
+* Soporte y atención al usuario
 
-### 🛡️ Auditoría, Monitorización y Defensa
-* **Gestión del Ciclo de Vulnerabilidades:** Ejecución de auditorías técnicas internas con **OpenVAS** en infraestructura Windows/Linux. Análisis crítico de hallazgos mediante clasificación **CVSS** y elaboración de planes de remediación.
-* **Monitorización de Seguridad (SIEM):** Configuración e ingesta de logs en **Wazuh** para detección de anomalías y eventos de seguridad.
+---
 
-### 🎣 Phishing Ético y Concienciación
-* **Campañas de Ingeniería Social:** Diseño y ejecución de simulaciones controladas de phishing utilizando **GoPhish**. Análisis de tasas de apertura/clic para evaluar la concienciación de los usuarios y reforzar la postura de seguridad.
+## 🌐 Redes
 
-## 🎓 Certificaciones y Formación
+* TCP/IP
+* Nmap
+* Wireshark
+* Firewalls
+* VPN
+* Configuración de redes virtuales
+* Análisis y diagnóstico de conectividad
 
-* **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) | Stucom | Junio 2026** — *Especialidad en Ciberseguridad*.
-* **Certificación: IT Specialist: Cybersecurity – Certiport | Pearson VUE | 2024**
-* **Pre Security Certificate | Tryhackme | 2026**
-* **Ciberseguridad avanzada en entornos de las tecnologias de la operación | MainJobs | 2024**
-* **Managing Cisco Network Security | Gdoce |2024**
-* **Introducción a Linux | Hack4u | 2024**
-* **Personalización de entornos en Linux | Hack4u | 2023**
-* **Curso técnico de ciberseguridad | Incibe | 2023**
-* **Curso superior de Ciberseguridad | Deusto formación |2023**
-* **Como protegerse en la red | Mastermaind | 2022**
-* **Hacking ético y ciberseguridad | Udemy | 2022**
-* **Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR) | Teide IV | 2014**
-* **Cursos y Prácticas:** TryHackMe, Labs prácticos.
+---
+
+## 🔐 Ciberseguridad
+
+* Análisis y gestión de vulnerabilidades
+* OpenVAS / Nessus
+* CVSS
+* OWASP Top 10
+* Burp Suite
+* GoPhish
+* Wazuh
+* Garak
+* Prompt Injection y Jailbreaking
+* Ingeniería social
+* Seguridad ofensiva
+
+---
+
+## 🧪 Laboratorios y proyectos
+
+Actualmente desarrollo laboratorios prácticos para reforzar mis conocimientos en **sistemas, redes y ciberseguridad**.
+
+### 🛡️ Vulnerability Management
+
+Prácticas de identificación, análisis y priorización de vulnerabilidades mediante herramientas como **OpenVAS**, utilizando CVSS para valorar el riesgo y definir acciones de remediación.
+
+### 🖥️ Linux & Systems Lab
+
+Laboratorios de administración de sistemas Linux:
+
+* Usuarios y permisos
+* Servicios
+* SSH
+* Bash
+* Gestión de procesos
+* Logs
+* Redes
+* Hardening básico
+
+### 🪟 Windows & Active Directory
+
+Laboratorios orientados a administración de entornos Windows y servicios de infraestructura.
+
+* Windows Server
+* Active Directory
+* Usuarios y grupos
+* DNS
+* GPO
+* Administración de clientes Windows
+
+### 🛡️ Wazuh Homelab
+
+Laboratorio de monitorización y detección de eventos de seguridad mediante **Wazuh**.
+
+* Despliegue de agentes
+* Recopilación de logs
+* Monitorización
+* Detección de eventos
+* Análisis de alertas
+
+### 🌐 Web Security Lab
+
+Entornos controlados para practicar seguridad web utilizando:
+
+* OWASP Juice Shop
+* Burp Suite
+* Nmap
+* Enumeración
+* Análisis de vulnerabilidades
+* Explotación controlada
+
+### 🧪 TryHackMe
+
+Laboratorios y CTFs orientados a:
+
+* Red Team Fundamentals
+* Junior Penetration Tester
+* Web Hacking
+* Linux
+* Redes
+* Enumeración
+* Explotación
+
+➡️ [Ver mis Writeups](./01-Writeup_Laboratorios)
+
+---
+
+## 💼 Experiencia en Ciberseguridad
+
+### Técnico de Ciberseguridad — Novanotio | 2026
+
+Experiencia práctica en:
+
+* Auditorías de vulnerabilidades con OpenVAS.
+* Análisis y priorización mediante CVSS.
+* Remediación de vulnerabilidades en Windows y Linux.
+* Evaluación de seguridad de agentes LLM.
+* Pruebas de Prompt Injection y Jailbreaking mediante Garak.
+* Campañas de phishing con GoPhish.
+* Análisis de métricas de concienciación.
+
+---
+
+## 🎓 Formación
+
+**Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**
+Stucom · Especialidad en Ciberseguridad · 2026
+
+**Grado Medio en Sistemas Microinformáticos y Redes (SMR)**
+Teide IV · 2014
+
+### Certificaciones y formación destacada
+
+* IT Specialist: Cybersecurity — Certiport / Pearson VUE
+* Pre Security Certificate — TryHackMe
+* Ciberseguridad avanzada en entornos OT — Mainjobs
+* Managing Cisco Network Security — Gdoce
+* Curso Técnico de Ciberseguridad — INCIBE
+* Curso Superior de Ciberseguridad — Deusto Formación
+* Linux — Hack4u
+
+---
+
+## 🛠️ Tecnologías
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* Administración de sistemas Linux y Windows
+* Redes y troubleshooting
+* Active Directory
+* Monitorización y detección con Wazuh
+* Gestión de vulnerabilidades
+* Seguridad web
+* Automatización mediante Bash y Python
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-manuel-coello) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coello93/Porfolio) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J0Rch3r)
+---
+
+> **Objetivo profesional:** desarrollar mi carrera en Sistemas y Soporte IT, evolucionando progresivamente hacia la Administración de Sistemas y la Ciberseguridad.
+
+
