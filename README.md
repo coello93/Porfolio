@@ -35,7 +35,12 @@ En este repositorio documento mis laboratorios prácticos, resolución de retos 
 
 ## 🎓 Certificaciones y Formación
 
-* **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)** — *Especialidad en Ciberseguridad*.
-* **Cursos y Prácticas:** TryHackMe, Labs prácticos.
+* **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) | Stucom | Junio 2026** — *Especialidad en Ciberseguridad*.
 * **Certificación: IT Specialist: Cybersecurity – Certiport | Pearson VUE (2024)**
-* **Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR)**
+* **Pre Security Certificate | Tryhackme | 2026**
+* **Curso técnico de ciberseguridad | Incibe | 2023**
+* **Como protegerse en la red | Mastermaind | 2022**
+* **Hacking ético y ciberseguridad | Udemy | 2022**
+* 
+* **Grado medio en Técnico en Sistemas Microinformáticos y Redes (SMR) | Teide IV | 2014**
+* **Cursos y Prácticas:** TryHackMe, Labs prácticos.
