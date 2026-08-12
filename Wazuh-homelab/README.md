@@ -81,65 +81,65 @@ El despliegue del laboratorio se realizará progresivamente.
 
 Phase 1 — Infrastructure
 
-Crear Wazuh Server
+- [x] Crear Wazuh Server
 
-Instalar Ubuntu Server
+- [X] Instalar Ubuntu Server
 
-Actualizar el sistema
+- [X] Actualizar el sistema
 
-Configurar hostname
+- [] Configurar hostname
 
-Configurar red estática
+- [x] Configurar red estática
 
-Comprobar conectividad
+- [] Comprobar conectividad
 
-Instalar Wazuh
+- [] Instalar Wazuh
 
-Verificar Wazuh Dashboard
+- [] Verificar Wazuh Dashboard
 
 Phase 2 — Endpoint Integration
 
-Crear Ubuntu Client
+- [] Crear Ubuntu Client
 
-Instalar Wazuh Agent en Ubuntu
+- [] Instalar Wazuh Agent en Ubuntu
 
-Registrar Ubuntu Client
+- [] Registrar Ubuntu Client
 
-Crear Windows 10 Client
+- [] Crear Windows 10 Client
 
-Instalar Wazuh Agent en Windows
+- [] Instalar Wazuh Agent en Windows
 
-Registrar Windows Client
+- [] Registrar Windows Client
 
-Verificar comunicación de los agentes
+- [] Verificar comunicación de los agentes
 
 Phase 3 — Monitoring
 
-Monitorización de autenticaciones
+- [] Monitorización de autenticaciones
 
-Monitorización de integridad de archivos
+- [] Monitorización de integridad de archivos
 
-Monitorización de actividad privilegiada
+- [] Monitorización de actividad privilegiada
 
-Recopilación de eventos de Windows
+- [] Recopilación de eventos de Windows
 
-Monitorización de PowerShell
+- [] Monitorización de PowerShell
 
-Análisis de logs
+- [] Análisis de logs
 
 Phase 4 — Detection & Investigation
 
-Generar eventos controlados
+- [] Generar eventos controlados
 
-Analizar alertas
+- [] Analizar alertas
 
-Investigar eventos desde Wazuh Dashboard
+- [] Investigar eventos desde Wazuh Dashboard
 
-Identificar indicadores relevantes
+- [] Identificar indicadores relevantes
 
-Relacionar detecciones con MITRE ATT&CK
+- [] Relacionar detecciones con MITRE ATT&CK
 
-Documentar casos de uso
+- [] Documentar casos de uso
 
 ## 🔎 Security Use Cases
 
@@ -296,7 +296,7 @@ Status: 🚧 In Progress
 El laboratorio se encuentra actualmente en fase de despliegue de infraestructura.
 
 Current progress<br>
-[████░░░░░░░░░░░░░░░░] Infrastructure <br>
+[██████░░░░░░░░░░░░░░] Infrastructure <br>
 [░░░░░░░░░░░░░░░░░░░░] Endpoint Integration <br>
 [░░░░░░░░░░░░░░░░░░░░] Monitoring <br>
 [░░░░░░░░░░░░░░░░░░░░] Detection <br>
