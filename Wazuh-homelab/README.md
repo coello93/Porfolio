@@ -111,35 +111,35 @@ Phase 2 — Endpoint Integration
 
 - [] Registrar Windows Client
 
-- [ ] Verificar comunicación de los agentes
+- [] Verificar comunicación de los agentes
 
 Phase 3 — Monitoring
 
-- [ ] Monitorización de autenticaciones
+- [] Monitorización de autenticaciones
 
-- [ ] Monitorización de integridad de archivos
+- [] Monitorización de integridad de archivos
 
-- [ ] Monitorización de actividad privilegiada
+- [] Monitorización de actividad privilegiada
 
-- [ ] Recopilación de eventos de Windows
+- [] Recopilación de eventos de Windows
 
-- [ ] Monitorización de PowerShell
+- [] Monitorización de PowerShell
 
-- [ ] Análisis de logs
+- [] Análisis de logs
 
 Phase 4 — Detection & Investigation
 
-- [ ] Generar eventos controlados
+- [] Generar eventos controlados
 
-- [ ] Analizar alertas
+- [] Analizar alertas
 
-- [ ] Investigar eventos desde Wazuh Dashboard
+- [] Investigar eventos desde Wazuh Dashboard
 
-- [ ] Identificar indicadores relevantes
+- [] Identificar indicadores relevantes
 
-- [ ] Relacionar detecciones con MITRE ATT&CK
+- [] Relacionar detecciones con MITRE ATT&CK
 
-- [ ] Documentar casos de uso
+- [] Documentar casos de uso
 
 ## 🔎 Security Use Cases
 
