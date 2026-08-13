@@ -83,63 +83,63 @@ Phase 1 — Infrastructure
 
 - [x] Crear Wazuh Server
 
-- [X] Instalar Ubuntu Server
+- [x] Instalar Ubuntu Server
 
-- [X] Actualizar el sistema
+- [x] Actualizar el sistema
 
 - [] Configurar hostname
 
-- [x] Configurar red estática
+- [] Configurar red estática
 
-- [] Comprobar conectividad
+- [x] Comprobar conectividad
 
-- [] Instalar Wazuh
+- []  Instalar Wazuh
 
 - [] Verificar Wazuh Dashboard
 
 Phase 2 — Endpoint Integration
 
-- [X] Crear Ubuntu Client
+- [x] Crear Ubuntu Client
 
 - [] Instalar Wazuh Agent en Ubuntu
 
 - [] Registrar Ubuntu Client
 
-- [] Crear Windows 10 Client
+- [x] Crear Windows 10 Client
 
 - [] Instalar Wazuh Agent en Windows
 
 - [] Registrar Windows Client
 
-- [] Verificar comunicación de los agentes
+- [ ] Verificar comunicación de los agentes
 
 Phase 3 — Monitoring
 
-- [] Monitorización de autenticaciones
+- [ ] Monitorización de autenticaciones
 
-- [] Monitorización de integridad de archivos
+- [ ] Monitorización de integridad de archivos
 
-- [] Monitorización de actividad privilegiada
+- [ ] Monitorización de actividad privilegiada
 
-- [] Recopilación de eventos de Windows
+- [ ] Recopilación de eventos de Windows
 
-- [] Monitorización de PowerShell
+- [ ] Monitorización de PowerShell
 
-- [] Análisis de logs
+- [ ] Análisis de logs
 
 Phase 4 — Detection & Investigation
 
-- [] Generar eventos controlados
+- [ ] Generar eventos controlados
 
-- [] Analizar alertas
+- [ ] Analizar alertas
 
-- [] Investigar eventos desde Wazuh Dashboard
+- [ ] Investigar eventos desde Wazuh Dashboard
 
-- [] Identificar indicadores relevantes
+- [ ] Identificar indicadores relevantes
 
-- [] Relacionar detecciones con MITRE ATT&CK
+- [ ] Relacionar detecciones con MITRE ATT&CK
 
-- [] Documentar casos de uso
+- [ ] Documentar casos de uso
 
 ## 🔎 Security Use Cases
 
@@ -296,8 +296,8 @@ Status: 🚧 In Progress
 El laboratorio se encuentra actualmente en fase de despliegue de infraestructura.
 
 Current progress<br>
-[██████░░░░░░░░░░░░░░] Infrastructure <br>
-[░░░░░░░░░░░░░░░░░░░░] Endpoint Integration <br>
+[██████████████████░░] Infrastructure <br>
+[███░░░░░░░░░░░░░░░░░] Endpoint Integration <br>
 [░░░░░░░░░░░░░░░░░░░░] Monitoring <br>
 [░░░░░░░░░░░░░░░░░░░░] Detection <br>
 [░░░░░░░░░░░░░░░░░░░░] Investigation <br>
