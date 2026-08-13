@@ -99,7 +99,7 @@ Phase 1 — Infrastructure
 
 Phase 2 — Endpoint Integration
 
-- [] Crear Ubuntu Client
+- [X] Crear Ubuntu Client
 
 - [] Instalar Wazuh Agent en Ubuntu
 
