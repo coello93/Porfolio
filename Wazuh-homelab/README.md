@@ -87,7 +87,7 @@ Phase 1 — Infrastructure
 
 - [x] Actualizar el sistema
 
-- [] Configurar hostname
+- [x] Configurar hostname
 
 - [] Configurar red estática
 
