@@ -4,11 +4,23 @@
 - **RAM:** 9214 MB
 - **vCPU:** 4
 - **Disco virtual:** 40 GB
-- **Sistema de archivos actual:** ~19 GB
+- **Sistema de archivos actual:** ~38 GB
 - **Red:** NAT
 - **IP:** `192.168.1.20`
 - **Rol:** Wazuh Server
   <br>
+
+
+### Componentes instalados
+
+- **Wazuh Manager:** Operativo
+- **Wazuh Indexer:** Operativo
+- **Wazuh Dashboard:** Operativo
+
+### Estado
+
+**Servidor Wazuh operativo y accesible desde la red del laboratorio.** 
+<br>
 
 ## Solución de problemas
 
