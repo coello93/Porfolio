@@ -10,9 +10,9 @@
 - **Rol:** Wazuh Server
   <br>
 
-## Troubleshooting
+## Solución de problemas
 
-### Issue #01 — Corrupción del archivo OpenSearch keystore
+### Asunto #01 — Corrupción del archivo OpenSearch keystore
 
 Durante el arranque inicial de **Wazuh Indexer**, el servicio falló y no pudo iniciarse correctamente.
 
