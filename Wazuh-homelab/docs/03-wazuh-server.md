@@ -1,3 +1,15 @@
+## VM1 — Wazuh Server
+
+- **OS:** Ubuntu 25.04 (64-bit)
+- **RAM:** 9214 MB
+- **vCPU:** 4
+- **Disco virtual:** 40 GB
+- **Sistema de archivos actual:** ~19 GB
+- **Red:** NAT
+- **IP:** `192.168.1.20`
+- **Rol:** Wazuh Server
+  <br>
+
 ## Troubleshooting
 
 ### Issue #01 — Corrupción del archivo OpenSearch keystore
