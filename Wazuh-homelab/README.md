@@ -39,9 +39,9 @@ Los tres sistemas estarán conectados mediante una red virtual de laboratorio.
 Wazuh Server
 Recurso	Configuración
 OS	Ubuntu Server 24.04 LTS
-CPU	3 vCPU
-RAM	6 GB
-Storage	25 GB
+CPU	4 vCPU
+RAM	9 GB
+Storage	40 GB
 Hostname	wazuh-server
 Role	Wazuh Manager / Indexer / Dashboard
 
@@ -89,13 +89,13 @@ Phase 1 — Infrastructure
 
 - [x] Configurar hostname
 
-- [] Configurar red estática
+- [x] Configurar red estática
 
 - [x] Comprobar conectividad
 
-- []  Instalar Wazuh
+- [x]  Instalar Wazuh
 
-- [] Verificar Wazuh Dashboard
+- [x] Verificar Wazuh Dashboard
 
 Phase 2 — Endpoint Integration
 
@@ -296,8 +296,8 @@ Status: 🚧 In Progress
 El laboratorio se encuentra actualmente en fase de despliegue de infraestructura.
 
 Current progress<br>
-[██████████████████░░] Infrastructure <br>
-[███░░░░░░░░░░░░░░░░░] Endpoint Integration <br>
+[████████████████████] Infrastructure <br>
+[█████░░░░░░░░░░░░░░░] Endpoint Integration <br>
 [░░░░░░░░░░░░░░░░░░░░] Monitoring <br>
 [░░░░░░░░░░░░░░░░░░░░] Detection <br>
 [░░░░░░░░░░░░░░░░░░░░] Investigation <br>
