@@ -22,27 +22,12 @@
 **Servidor Wazuh operativo y accesible desde la red del laboratorio.** 
 <br>
 
-## Solución de problemas
+##Verificación de servicios
 
-### Asunto #01 — Corrupción del archivo OpenSearch keystore
+Los Servicios fueron comprobados con los comandos.
 
-Durante el arranque inicial de **Wazuh Indexer**, el servicio falló y no pudo iniciarse correctamente.
+`sudo systemctl status wazuh-manager --no-pager` <br>
+`sudo systemctl status wazuh-indexer --no-pager` <br>
+`sudo systemctl status wazuh-dashboard --no-pager` <br>
+Los tres servicios indican que estan funcioanndo con: `Active: active (running)`
 
-El error detectado en los logs fue:
-
-`java.io.EOFException: read past EOF`
-
-El archivo afectado fue:
-
-`/etc/wazuh-indexer/opensearch.keystore`
-
-Al comprobar el archivo, se confirmó que estaba vacío:
-
-- **Tamaño:** 0 bytes
-- **Propietario:** `wazuh-indexer`
-- **Grupo:** `wazuh-indexer`
-
-La comprobación realizada fue:
-
-```bash
-sudo ls -lh /etc/wazuh-indexer/opensearch.keystore
