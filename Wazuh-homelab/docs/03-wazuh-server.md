@@ -2,7 +2,7 @@
 
 - **OS:** Ubuntu 25.04 (64-bit)
 - **RAM:** 9214 MB
-- **vCPU:** 4
+- **vCPU:** 6
 - **Disco virtual:** 40 GB
 - **Sistema de archivos actual:** ~38 GB
 - **Red:** NAT
